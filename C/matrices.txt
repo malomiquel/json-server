@@ -1,0 +1,9 @@
+number_bus=2
+number_line=0
+number_slack=0
+number_generator=0
+number_transformer=0
+number_charge=0
+number_components=2
+["hggv", "654", "34"]
+["hggv", "654", "34"]

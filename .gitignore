@@ -1,0 +1,5 @@
+.vscode
+./src/main.exe
+./src/matrices.txt
+./src/matrices.csv
+node_modules
